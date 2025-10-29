@@ -1,0 +1,5 @@
+{
+  "name": "CharacterForge AI",
+  "description": "An AI-powered generator that creates complete 2D character packages, including high-quality portraits from multiple angles, detailed lore, stats, and voice lines. Ideal for game developers, writers, and world-builders.",
+  "requestFramePermissions": []
+}
